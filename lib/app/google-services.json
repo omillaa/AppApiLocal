@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "820141816276",
+    "firebase_url": "https://servicoestrega-default-rtdb.firebaseio.com",
+    "project_id": "servicoestrega",
+    "storage_bucket": "servicoestrega.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820141816276:android:08c27a31f2c51066dcfe41",
+        "android_client_info": {
+          "package_name": "com.example.servico_entrega"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf700p6BKMgO6Q2X9UEuxXGn53g_1q974"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

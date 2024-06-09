@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "603590972566",
+    "firebase_url": "https://servicoentrega-f9127-default-rtdb.firebaseio.com",
+    "project_id": "servicoentrega-f9127",
+    "storage_bucket": "servicoentrega-f9127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603590972566:android:11c67baca809b1f0831eb7",
+        "android_client_info": {
+          "package_name": "com.example.att_pedidos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603590972566-kro2okj8g2a0ekvn2kshf7ns0e7pb37j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCnVOQjO-02lfHJg1_6wQPC7252t5gu3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603590972566-kro2okj8g2a0ekvn2kshf7ns0e7pb37j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "603590972566-3rpgtl5ug2ngctikcjsukk7se1668hlr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.attPedidos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
